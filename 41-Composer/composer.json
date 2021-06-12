@@ -1,0 +1,17 @@
+{
+    "name": "antonio/htdocs",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "source\\":"source/"
+        }
+    },
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    
+    "require": {
+        
+        "coffeecode/router":"1.0.*"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "antonio/40-s-lim3",
+    "description": "Prteste slim 3.^",
+    "license": "MIT",
+    "require": {
+        "slim/slim": "3.*",
+        "palanik/corsslim": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\":"src/"
+        }
+    }
+}

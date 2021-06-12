@@ -1,0 +1,7 @@
+Quais os endpoints?
+
+GET - /api/notes - Estruturado - /api/getall.php
+GET - /api/note/123 - Estruturado - /api/get.php?id=123
+POST - /api/note (title,body) - Estruturado - /api/insert.php (title,body)
+PUT - /api/note/123 - Estruturado - /api/update.php (id, title,body)
+DELETE - /api/note/123  - Estruturado - /api/delete.php (id)

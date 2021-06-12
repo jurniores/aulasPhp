@@ -1,0 +1,15 @@
+{
+    "name": "antonio/slim",
+    "description": "Tenstando o tuupola",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Antonio",
+            "email": "antonio@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "3.*",
+        "tuupola/cors-middleware": "0.9.*"
+    }
+}
